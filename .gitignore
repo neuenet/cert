@@ -1,0 +1,8 @@
+# Directories
+certificates
+
+# Files
+.DS_Store
+.env
+*.lock
+Thumbs.db
